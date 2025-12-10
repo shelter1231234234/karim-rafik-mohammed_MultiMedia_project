@@ -1,0 +1,2 @@
+Librarys to install 
+pillow (pip install pillow)
